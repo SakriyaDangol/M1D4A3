@@ -100,13 +100,13 @@ hr{
 .img-1{
     background-image: url("naruto.jpg");
     background-size: cover;
-    background-position-x: -3px;
+    background-position-x: 74%;
 }
 
 .img-2{
     background-image: url("sasuke.jpeg");
     background-size: cover;
-    background-position-x: -45px;
+    background-position-x: 50%;
 }
 
 .img-3{
